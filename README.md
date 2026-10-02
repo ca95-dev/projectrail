@@ -1,1 +1,1 @@
-# Projectrial this is the project of GHRCEM Students
+# Projectrial: a project by the students of GHRCEM
