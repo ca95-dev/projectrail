@@ -29,7 +29,7 @@ BACKEND:
  -Clothing database.
  -Camera/AI processing support
   -API development
-
+ 3. Abhinav Chauhan 
 
 
 
