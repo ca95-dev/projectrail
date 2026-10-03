@@ -1,11 +1,9 @@
 # Projectrial: A project by the students of GHRCEM.
 Define Your Role ( Welcome to KINETIX ) ♥︎ :-
-
->Frontend:
+1). UI/UX DESiGNER (TASKS OF ANUJ):
 ○ Logo
 ○ Colour Theme
 ○ Font
-○ UI/UX
 ○ Mobile Interface Design
 ○ PC Interface Design
 ○ Page Layouts
