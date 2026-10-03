@@ -21,4 +21,17 @@ FRONTEND:
 ○ Mobile Responsiveness
 ○ Animations & Transitions
 
-2)Abhinav C 
+2)Abhinav B
+ -User & account management
+ -Login/signup
+ -Store user profiles and preferences
+ -Clothing database.
+ -Camera/AI processing support
+  -API development
+
+
+
+
+
+
+
