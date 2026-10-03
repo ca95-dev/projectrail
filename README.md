@@ -21,6 +21,7 @@ FRONTEND:
 ○ Mobile Responsiveness
 ○ Animations & Transitions
 
+BACKEND:
 2)Abhinav B
  -User & account management
  -Login/signup
