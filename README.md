@@ -21,4 +21,4 @@ FRONTEND:
 ○ Mobile Responsiveness
 ○ Animations & Transitions
 
-2)
+2)Abhinav C 
