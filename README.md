@@ -22,7 +22,7 @@ FRONTEND:
 ○ Animations & Transitions
 
 BACKEND:
-2)Abhinav B
+2)Abhinav Badge
  -User & account management
  -Login/signup
  -Store user profiles and preferences
