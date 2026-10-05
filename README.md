@@ -23,7 +23,7 @@ FRONTEND:
 ○ Maintain visual consistency → Same look everywhere
 ○ Refine spacing and alignment → Perfect gaps
 
-2) FRONTEND DEVELOPER 1( Amruta )
+2) FRONTEND DEVELOPER 1
 ○ Build Try-On Room structure → Main page layout
 ○ Upload Clothing section → Cloth upload area
 ○ Drag & Drop → Easy image drop
@@ -35,7 +35,7 @@ FRONTEND:
 ○ Connect main buttons → Link all actions
 ○ Support visual perfection → Help keep clean look
 
-3) FRONTEND DEVELOPER 2
+3) FRONTEND DEVELOPER 2 (ADITI)
 ○ Live camera feed → Show webcam
 ○ Uploaded user photo → Show user image
 ○ Final result display → Show try-on output
@@ -47,7 +47,7 @@ FRONTEND:
 ○ Polish overall UI → Final visual cleanup
 ○ Test full journey → Check complete flow
 
-4) BACKEND DEVELOPER 1:-Abhinav B
+4) BACKEND DEVELOPER 1
 ○ Clothing image API → Receive cloth photo
 ○ User photo API → Receive user photo
 ○ Image uploading → Handle uploads
