@@ -23,7 +23,7 @@ FRONTEND:
 ○ Maintain visual consistency → Same look everywhere
 ○ Refine spacing and alignment → Perfect gaps
 
-2) FRONTEND DEVELOPER 1
+2) FRONTEND DEVELOPER 1 (Amruta)
 ○ Build Try-On Room structure → Main page layout
 ○ Upload Clothing section → Cloth upload area
 ○ Drag & Drop → Easy image drop
