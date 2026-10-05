@@ -3,7 +3,7 @@
 Define Your Role ( Welcome to KINETIX ) ♥︎ :-
 
 FRONTEND:
-1) UI/UX DESIGNER:-
+1) UI/UX DESIGNER:- (anuj)
 ○ Logo → Brand mark
 ○ Colour Theme → Main colors
 ○ Font → Text style
@@ -47,7 +47,7 @@ FRONTEND:
 ○ Polish overall UI → Final visual cleanup
 ○ Test full journey → Check complete flow
 
-4) BACKEND DEVELOPER 1
+4) BACKEND DEVELOPER 1 ( abhiav B )
 ○ Clothing image API → Receive cloth photo
 ○ User photo API → Receive user photo
 ○ Image uploading → Handle uploads
@@ -60,7 +60,7 @@ FRONTEND:
 ○ Optimize speed → Make it fast
 ○ Support integration → Help connection
 
-5)BACKEND DEVELOPER 2
+5)BACKEND DEVELOPER 2 ( Abhinav C ) 
 ○ File handling → Read/write images
 ○ Projection logic → Main try-on code
 ○ Process clothing image → Prepare cloth
