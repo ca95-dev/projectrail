@@ -47,7 +47,7 @@ FRONTEND:
 ○ Polish overall UI → Final visual cleanup
 ○ Test full journey → Check complete flow
 
-4) BACKEND DEVELOPER 1 ( abhiav B )
+4) BACKEND DEVELOPER 1 ( abhinav B )
 ○ Clothing image API → Receive cloth photo
 ○ User photo API → Receive user photo
 ○ Image uploading → Handle uploads
